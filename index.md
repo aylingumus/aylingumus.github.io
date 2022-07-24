@@ -5,4 +5,4 @@ I’m a software developer. 4 years experience specializing in back-end/infrastr
 I develop web applications, web services and APIs in general. I mostly have development experience with Java, Python, C#, JavaScript programming languages, and I am tend to learn the current technologies. Besides, I am interested in games and game development. So nowadays I'm learning Unity development.
 
 ### My GitHub Profile
-Check out my [github profile](https://github.com/aylingumus).
+Check out my [GitHub profile](https://github.com/aylingumus).
